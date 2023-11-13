@@ -1,2 +1,3 @@
-# stepik_auto_tests_course
-stepik_auto_tests_course
+# Курс степика по автотестам
+*Курс степика по автотестам*
+
